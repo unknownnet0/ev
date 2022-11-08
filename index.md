@@ -202,6 +202,86 @@ Karı ya da kocanın öbürüne ya da ikisinin birbirine ihaneti.
 Dilenciye verilen para.
 Dinsel inanışla, yoksullara yardım olarak karşılıksız verilen şey.
 
+## 57. Alelade
+Her zaman görülen, olağan, doğal.
+Hiçbir özelliği olmayan, bayağı, sıra işi, sıradan.
 
+## 58. Tafsilat
+Ayrıntılı açıklamalar, ayrıntılar.
+Ayrıntısıyla anlatmak, uzun uzun açıklamak.
+
+## 59. Takva
+Günahtan kaçınma, sakınma.
+
+## 60. Tasavvuf
+Tanrı’nın varlığını, birliğini, niteliğini ve evrenin oluşumunu varlık birliğiyle, yaratılanla yaratanın bir oluşu, aynı kaynaktan gelişi anlayışıyla açıklayan dinsel ve felsefi akım, İslam gizemciliği.
+
+## 61. Taassup
+Bağnazlık.
+
+## 62. Tafra
+Kendini yüksek, ulaşılmaz görme, büyüklük taslama, yüksekten atma, böbürlenme, büyüklenme.
+
+## 63. Taflan
+Karayemiş.
+
+## 64. Tafta
+Eskiden ferace, çarşaf, yazlık giysi vb. yapımında kullanılan, ipekle dokunmuş, sert, hışırtılı bir kumaş türü.
+
+## 65. Astigmat
+Duru göremeyen (göz).
+
+## 66. İnkişaf
+Gelişim, gelişme.
+Açığa çıkma.
+
+## 67. İnkaf
+Nafaka vererek bir kimsenin geçimini sağlama.
+
+## 68. İnşirah
+Gönül açıklığı, iç rahatlığı.
+
+## 69. İntibak
+Bir duruma, bir ortama ya da çevreye uyma, alışma.
+
+## 70. İmsak
+Cimrilik.
+Bir şeyi yapmaktan el çekme, nefsine egemen olarak o şeyi yapmama.
+(ramazanda) oruca başlama zamanı.
+
+## 71. İktisat
+Ekonomi.
+
+## 72. istiğfar
+Tanrı’dan, suçlarının bağışlanmasını dileme, tövbe.
+
+## 73. İstihdam
+Bir insanı bir işte, bir görevde kullanma, çalıştırma.
+
+## 74. İstişare
+Danışma.
+
+## 75. İstiklal
+Bağımsızlık.
+
+## 76. İstikrar
+Düzenlilik içinde sürüp gitme, kararlılık.
+Karar kılma, oturma, yerleşme.
+
+## 77. İstikbal
+(gelen birini, yolcuyu) karşılama.
+gelecek (zaman).
+
+## 78. İstikamet
+Doğrultu, yön.
+
+## 79. İstika
+Kunduracıların, ayakkabıların altını parlatmakta kullandıkları kemik araç.
+
+## 80. 
+
+## 81. 
+
+## 82. 
 
 Kaynak: [[KAYNAĞA GİTMEK İÇİN TIKLA]](https://https://sozluk.gov.tr/)
