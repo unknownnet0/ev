@@ -62,5 +62,71 @@ Biçimlenmiş, oluşmuş, anlamını taşıyan sözlüktür.
 ## 19. Müteşebbis
 Girişken, girişimci, anlamını taşıyan sözlüktür.
 
+## 20. Müptezel
+Saygınlığını yitirmiş, bayağılaşmış, değersiz, anlamını taşıyan sözlüktür.
+
+## 21. Müptela
+Kötü alışkanlıkları olan, kötü bir şeye düşkün (kimse), (hastalığa) tutulmuş, yakalanmış, (birine ya da bir şeye) vurgun, âşık, (kötü bir şeye) düşkün olmak, alışmak, (hastalığa) tutulmak, yakalanmak, anlamını taşıyan sözlüktür.
+
+## 22. Müphem
+Belirsiz, anlamını taşıyan sözlüktür.
+
+## 23. Riyakar
+İkiyüzlü, anlamını taşıyan sözlüktür.
+
+## 24. Regl
+Aybaşı, anlamını taşıyan sözlüktür.
+
+## 25. Ayan
+Gözle görülen, açık, belli, anlamını taşıyan sözlüktür.
+
+## 26. Münafık
+Arabozucu, bölücü, karıştırıcı, anlamını taşıyan sözlüktür.
+
+## 27. Müneccim
+Yıldız falcısı, anlamını taşıyan sözlüktür.
+
+## 28. Meymenet
+İyi özellik, iyi nitelik, uğur, anlamını taşıyan sözlüktür.
+
+## 29. Meymenetsiz
+Kötü, uğursuz, huysuz, kılıksız, suratsız, aksi (kimse), anlamını taşıyan sözlüktür.
+
+## 30. Metafor
+Eğretileme, anlamını taşıyan sözlüktür.
+
+## 31. Muvaffak
+Başarılı, anlamını taşıyan sözlüktür.
+
+## 32. Muvazzaf
+Silahlı kuvvetlerde çalışan, mesleği askerlik olan (subay ve astsubay), anlamını taşıyan sözlüktür.
+
+## 33. Muvafakat
+Razı olma, uygun bulma, olur deme, anlamını taşıyan sözlüktür.
+
+## 34. Muvazaa
+Danışık, anlamını taşıyan sözlüktür.
+
+## 35. Mücerret
+Soyut, anlamını taşıyan sözlüktür.
+
+## 36. Mücrim
+Suçlu, anlamını taşıyan sözlüktür.
+
+## 37. Mücahit
+Kutsal bir ülkü uğruna savaşan (kimse), anlamını taşıyan sözlüktür.
+
+## 38. Mücbir
+Zorlayıcı, zorlayan, anlamını taşıyan sözlüktür.
+
+## 39. Mücbir sebep
+Önüne geçilmesi elde olmayan, istencin dışında oluşan durum, anlamını taşıyan sözlüktür.
+
+## 40. Mensup
+İlişkili olan, ait olan, anlamını taşıyan sözlüktür. 
+
+Örnek: "O A ̇/ dine mensup."
+
+
 
 Kaynak: [1](https://https://sozluk.gov.tr/)
