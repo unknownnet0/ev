@@ -127,6 +127,24 @@ Zorlayıcı, zorlayan, anlamını taşıyan sözlüktür.
 
 Örnek: "O A ̇/ dine mensup."
 
+## 41. Beyhude
+Boş yere, boşuna, yok yere, gereksiz olarak, anlamsız, boş, yararsız, anlamını taşıyan sözlüktür.
+
+## 42. Müstehcen
+(Cinsellikle ilgili olarak) edebe aykırı, açık saçık, anlamını taşıyan sözlüktür.
+
+## 43. Ehvenişer
+Birkaç kötüden en az kötü olanı, anlamını taşıyan sözlüktür.
+
+## 44. Haddi zatında
+Aslında, gerçeğinde, doğrusu şu ki, anlamını taşıyan sözlüktür.
+
+## 45. Lafügüzaf
+Boş konuşma, anlamını taşıyan sözlüktür.
+
+## 46. Velhasıl
+Sözü uzatmadan söylemek gerekirse, sözün kısası, kısacası, özetle, anlamını taşıyan sözlüktür.
+
 
 
 Kaynak: [1](https://https://sozluk.gov.tr/)
