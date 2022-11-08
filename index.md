@@ -252,7 +252,7 @@ Bir şeyi yapmaktan el çekme, nefsine egemen olarak o şeyi yapmama.
 ## 71. İktisat
 Ekonomi.
 
-## 72. istiğfar
+## 72. İstiğfar
 Tanrı’dan, suçlarının bağışlanmasını dileme, tövbe.
 
 ## 73. İstihdam
@@ -278,7 +278,11 @@ Doğrultu, yön.
 ## 79. İstika
 Kunduracıların, ayakkabıların altını parlatmakta kullandıkları kemik araç.
 
-## 80. 
+## 80. Taltif
+hoş davranarak, iyilik yaparak gönül alma.
+nişan ya da madalya verme, aylık artırma gibi şeylerle ödüllendirme.
+hoş davranarak, iyilik yaparak gönül almak, gönül okşamak.
+(birini) nişan, madalya vererek ya da aylığını artırarak ödüllendirmek.
 
 ## 81. 
 
