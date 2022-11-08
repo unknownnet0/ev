@@ -36,4 +36,31 @@ Karşılık verme, karşılık, karşı gelme, başkaldırma, anlamını taşıy
 ## 11. Vakıf
 Bilgisi olan, anlamını taşıyan sözlüktür.
 
+## 12. Münferit
+Kendi başına, ayrı, tek, anlamını taşıyan sözlüktür.
+
+## 13. Mütevazı
+Alçakgönüllü, gösterişsiz, anlamını taşıyan sözlüktür.
+
+## 14. Mükellef
+Yükümlü, anlamını taşıyan sözlüktür.
+
+## 15. Müşteki
+Şikayet eden, anlamını taşıyan sözlüktür.
+
+## 16. Müteşekkir
+Teşekkür, anlamını taşıyan sözlüktür.
+
+Örnek: ”Bu yardımınız için müteşekkirim.”
+
+## 17. Mütemadiyen
+Hiç ara vermeksizin, sürekli bir biçimde, anlamını taşıyan sözlüktür.
+
+## 18. Müteşekkil
+Biçimlenmiş, oluşmuş, anlamını taşıyan sözlüktür.
+
+## 19. Müteşebbis
+Girişken, girişimci, anlamını taşıyan sözlüktür.
+
+
 Kaynak: [1](https://https://sozluk.gov.tr/)
