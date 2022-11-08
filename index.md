@@ -288,4 +288,4 @@ hoş davranarak, iyilik yaparak gönül almak, gönül okşamak.
 
 ## 82. 
 
-Kaynak: [[KAYNAĞA GİTMEK İÇİN TIKLA]](https://https://sozluk.gov.tr/)
+Kaynak [[KAYNAĞA GİTMEK İÇİN TIKLA]](https://https://sozluk.gov.tr/)
