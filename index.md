@@ -184,6 +184,12 @@ Durma, duraklama, eğleşme
 
 "Geminin altı saat tevakkufundan istifade ile bu şehrin içeri taraflarını araba ile gezdi." - Ahmet Hikmet Müftüoğlu
 
+## 53. Takdir
+Bir çalışmayı, bir işi, bir davranışı beğendiğinde bunu açıkça belirtme, bir kimseye değer verme.
+(bir şeyin, bir kimsenin değerini, önemini, gerekliliğini) anlama.
+
+## 54. Sadakat
+Sağlam, güçlü ve içten bağlılık.
 
 
 Kaynak: [1](https://https://sozluk.gov.tr/)
