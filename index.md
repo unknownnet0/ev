@@ -22,16 +22,19 @@ Kelime, söz, sözcük
 Benzeterek veya karşılaştırarak değerlendirme, karşılaştırma, kıyaslama
 
 ## 6. Mukayyet
-Bağlı bulunan, bağlanmış olan, bir koşula bağlanmış olan
+Bağlı bulunan, bağlanmış olan.
+Bir koşula bağlanmış olan.
 
 ## 8.Mukavemet
-Dayanma, dayanıklık, karşı koyma, karşı durma, direnme, direniş
+Dayanma, dayanıklık. 
+Karşı koyma, karşı durma, direnme, direniş.
 
 ## 9. Mukaddes
 Kutsal
 
 ## 10. Mukabele
-Karşılık verme, karşılık, karşı gelme, başkaldırma
+Karşılık verme, karşılık. 
+Karşı gelme, başkaldırma.
 
 ## 11. Vakıf
 Bilgisi olan
@@ -54,31 +57,36 @@ Teşekkür
 Örnek: ”Bu yardımınız için müteşekkirim.”
 
 ## 17. Mütemadiyen
-Hiç ara vermeksizin, sürekli bir biçimde
+Hiç ara vermeksizin, sürekli bir biçimde.
 
 ## 18. Müteşekkil
-Biçimlenmiş, oluşmuş
+Biçimlenmiş, oluşmuş.
 
 ## 19. Müteşebbis
-Girişken, girişimci
+Girişken, girişimci.
 
 ## 20. Müptezel
-Saygınlığını yitirmiş, bayağılaşmış, değersiz
+Saygınlığını yitirmiş, bayağılaşmış.
+Çokluğu dolayısıyla değerini yitiren, değersiz.
 
 ## 21. Müptela
-Kötü alışkanlıkları olan, kötü bir şeye düşkün (kimse), (hastalığa) tutulmuş, yakalanmış, (birine ya da bir şeye) vurgun, âşık, (kötü bir şeye) düşkün olmak, alışmak, (hastalığa) tutulmak, yakalanmak
+kötü alışkanlıkları olan, kötü bir şeye düşkün (kimse).
+(hastalığa) tutulmuş, yakalanmış.
 
 ## 22. Müphem
-Belirsiz
+Açık seçik olmayan, belirsiz.
+Açık seçik olmadan.
+
+"Konunun bir yerini müphem bıraktı"
 
 ## 23. Riyakar
-İkiyüzlü
+İkiyüzlü.
 
 ## 24. Regl
-Aybaşı
+Aybaşı.
 
 ## 25. Ayan
-Gözle görülen, açık, belli
+Gözle görülen, açık, belli.
 
 ## 26. Münafık
 Arabozucu, bölücü, karıştırıcı
@@ -89,37 +97,38 @@ Yıldızların durumlarından ve devinimlerinden anlam çıkararak falcılık ya
 "Eskiden müneccimlere danışılırmış"
 
 ## 28. Meymenet
-İyi özellik, iyi nitelik, uğur
+İyi özellik, iyi nitelik.
+uğur.
 
 ## 29. Meymenetsiz
-Kötü, uğursuz, huysuz, kılıksız, suratsız, aksi (kimse)
+Kötü, uğursuz, huysuz, kılıksız, suratsız, aksi (kimse).
 
 ## 30. Metafor
-Eğretileme
+Eğretileme.
 
 ## 31. Muvaffak
-Başarılı
+Başarılı.
 
 ## 32. Muvazzaf
-Silahlı kuvvetlerde çalışan, mesleği askerlik olan (subay ve astsubay)
+Silahlı kuvvetlerde çalışan, mesleği askerlik olan (subay ve astsubay).
 
 ## 33. Muvafakat
-Razı olma, uygun bulma, olur deme
+Razı olma, uygun bulma, olur deme.
 
 ## 34. Muvazaa
 Danışık
 
 ## 35. Mücerret
-Soyut
+Soyut.
 
 ## 36. Mücrim
-Suçlu
+Suçlu.
 
 ## 37. Mücahit
-Kutsal bir ülkü uğruna savaşan (kimse)
+Kutsal bir ülkü uğruna savaşan (kimse).
 
 ## 38. Mücbir
-Zorlayıcı, zorlayan
+Zorlayıcı, zorlayan.
 
 ## 39. Mücbir sebep
 Önüne geçilmesi elde olmayan, istencin dışında oluşan durum
@@ -127,28 +136,29 @@ Zorlayıcı, zorlayan
 ## 40. Mensup
 İlişkili olan, ait olan
 
-Örnek: "O A ̇/ dine mensup."
+Örnek: "İslam dinine mensup."
 
 ## 41. Beyhude
-Boş yere, boşuna, yok yere, gereksiz olarak, anlamsız, boş, yararsız
+Boş yere, boşuna, yok yere, gereksiz olarak.
+Anlamsız, boş, yararsız.
 
 ## 42. Müstehcen
-(Cinsellikle ilgili olarak) edebe aykırı, açık saçık
+(Cinsellikle ilgili olarak) edebe aykırı, açık saçık.
 
 ## 43. Ehvenişer
-Birkaç kötüden en az kötü olanı
+Birkaç kötüden en az kötü olanı.
 
 ## 44. Haddi zatında
-Aslında, gerçeğinde, doğrusu şu ki
+Aslında, gerçeğinde, doğrusu şu ki.
 
 ## 45. Lafügüzaf
 Boş konuşma
 
 ## 46. Velhasıl
-Sözü uzatmadan söylemek gerekirse, sözün kısası
+sözü uzatmadan söylemek gerekirse, sözün kısası, kısacası, özetle.
 
 ## 47. Tedarik
-Araştırıp bulma, elde etme, sağlama
+Araştırıp bulma, elde etme, sağlama.
 
 ## 48. İstenç
 İrade
@@ -158,13 +168,13 @@ Araştırıp bulma, elde etme, sağlama
 ## 49. Misak
 Antlaşma
 
-Örnek: "Bir misak yaptık." - UnknownNET
+Örnek: "Bir misak yaptık."
 
 ## 50. Muhakkak
 Doğruluğu, gerçekliği kesin olarak bilinen, gerçek olduğu kesinleşmiş olan.
 kesin olarak, kesinlikle.
 
-Örnek: "Her birinin muhakkak sırrı vardır." - UnknownNET
+Örnek: "Her birinin muhakkak sırrı vardır."
 
 ## 51. Vukuf
 Bilme, bilgi.
