@@ -145,6 +145,9 @@ Boş konuşma, anlamını taşıyan sözlüktür.
 ## 46. Velhasıl
 Sözü uzatmadan söylemek gerekirse, sözün kısası, kısacası, özetle, anlamını taşıyan sözlüktür.
 
+## 47. Tedarik
+Araştırıp bulma, elde etme, sağlama, anlamını taşıyan sözlüktür.
+
 
 
 Kaynak: [1](https://https://sozluk.gov.tr/)
