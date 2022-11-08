@@ -3,12 +3,12 @@
 ## 1. Mamafih
 Bununla birlikte
 
-“Mamafih, ilerledi...”
+Örnek: "Mamafih, ilerledi..."
 
 ## 2. Adak
 Adanılan şey, nezir
 
-Örnek:"Hanım, bu aldığınız şeylerin adağını unuttunuz." - Hüseyin Rahmi Gürpınar
+Örnek: "Hanım, bu aldığınız şeylerin adağını unuttunuz." - Hüseyin Rahmi Gürpınar
 
 ## 3. Nitekim
 Gerçekten, hakikaten
