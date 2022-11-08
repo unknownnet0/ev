@@ -81,16 +81,18 @@ Aybaşı, anlamını taşıyan sözlüktür.
 Gözle görülen, açık, belli, anlamını taşıyan sözlüktür.
 
 ## 26. Münafık
-Arabozucu, bölücü, karıştırıcı, anlamını taşıyan sözlüktür.
+Arabozucu, bölücü, karıştırıcı
 
 ## 27. Müneccim
-Yıldız falcısı, anlamını taşıyan sözlüktür.
+Yıldızların durumlarından ve devinimlerinden anlam çıkararak falcılık yapan kimse, yıldız falcısı.
+
+"Eskiden müneccimlere danışılırmış"
 
 ## 28. Meymenet
 İyi özellik, iyi nitelik, uğur, anlamını taşıyan sözlüktür.
 
 ## 29. Meymenetsiz
-Kötü, uğursuz, huysuz, kılıksız, suratsız, aksi (kimse), anlamını taşıyan sözlüktür.
+Kötü, uğursuz, huysuz, kılıksız, suratsız, aksi (kimse)
 
 ## 30. Metafor
 Eğretileme, anlamını taşıyan sözlüktür.
@@ -99,10 +101,10 @@ Eğretileme, anlamını taşıyan sözlüktür.
 Başarılı, anlamını taşıyan sözlüktür.
 
 ## 32. Muvazzaf
-Silahlı kuvvetlerde çalışan, mesleği askerlik olan (subay ve astsubay), anlamını taşıyan sözlüktür.
+Silahlı kuvvetlerde çalışan, mesleği askerlik olan (subay ve astsubay)
 
 ## 33. Muvafakat
-Razı olma, uygun bulma, olur deme, anlamını taşıyan sözlüktür.
+Razı olma, uygun bulma, olur deme
 
 ## 34. Muvazaa
 Danışık, anlamını taşıyan sözlüktür.
@@ -114,39 +116,39 @@ Soyut, anlamını taşıyan sözlüktür.
 Suçlu, anlamını taşıyan sözlüktür.
 
 ## 37. Mücahit
-Kutsal bir ülkü uğruna savaşan (kimse), anlamını taşıyan sözlüktür.
+Kutsal bir ülkü uğruna savaşan (kimse)
 
 ## 38. Mücbir
-Zorlayıcı, zorlayan, anlamını taşıyan sözlüktür.
+Zorlayıcı, zorlayan
 
 ## 39. Mücbir sebep
-Önüne geçilmesi elde olmayan, istencin dışında oluşan durum, anlamını taşıyan sözlüktür.
+Önüne geçilmesi elde olmayan, istencin dışında oluşan durum
 
 ## 40. Mensup
-İlişkili olan, ait olan, anlamını taşıyan sözlüktür. 
+İlişkili olan, ait olan
 
 Örnek: "O A ̇/ dine mensup."
 
 ## 41. Beyhude
-Boş yere, boşuna, yok yere, gereksiz olarak, anlamsız, boş, yararsız, anlamını taşıyan sözlüktür.
+Boş yere, boşuna, yok yere, gereksiz olarak, anlamsız, boş, yararsız
 
 ## 42. Müstehcen
-(Cinsellikle ilgili olarak) edebe aykırı, açık saçık, anlamını taşıyan sözlüktür.
+(Cinsellikle ilgili olarak) edebe aykırı, açık saçık
 
 ## 43. Ehvenişer
-Birkaç kötüden en az kötü olanı, anlamını taşıyan sözlüktür.
+Birkaç kötüden en az kötü olanı
 
 ## 44. Haddi zatında
-Aslında, gerçeğinde, doğrusu şu ki, anlamını taşıyan sözlüktür.
+Aslında, gerçeğinde, doğrusu şu ki
 
 ## 45. Lafügüzaf
 Boş konuşma, anlamını taşıyan sözlüktür.
 
 ## 46. Velhasıl
-Sözü uzatmadan söylemek gerekirse, sözün kısası, kısacası, özetle, anlamını taşıyan sözlüktür.
+Sözü uzatmadan söylemek gerekirse, sözün kısası
 
 ## 47. Tedarik
-Araştırıp bulma, elde etme, sağlama, anlamını taşıyan sözlüktür.
+Araştırıp bulma, elde etme, sağlama
 
 
 
