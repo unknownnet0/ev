@@ -204,4 +204,4 @@ Dinsel inanışla, yoksullara yardım olarak karşılıksız verilen şey.
 
 
 
-Kaynak: [1](https://https://sozluk.gov.tr/)
+Kaynak: [KAYNAĞA GİTMEK İÇİN TIKLA](https://https://sozluk.gov.tr/)
