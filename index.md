@@ -155,6 +155,11 @@ Araştırıp bulma, elde etme, sağlama
 
 Örnek: "Böyle bir değerlendirme, yerel seçimlerin halk istencini daha iyi gösterdiği sonucunu ortaya çıkarır." - Melih Cevdet Anday
 
+## 49. Misak
+Antlaşma
+
+Örnek: "Bir misak yaptık." - UnknownNET
+
 
 
 Kaynak: [1](https://https://sozluk.gov.tr/)
