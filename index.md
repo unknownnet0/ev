@@ -160,6 +160,20 @@ Antlaşma
 
 Örnek: "Bir misak yaptık." - UnknownNET
 
+## 50. Muhakkak
+Doğruluğu, gerçekliği kesin olarak bilinen, gerçek olduğu kesinleşmiş olan.
+kesin olarak, kesinlikle.
+
+Örnek: "Her birinin muhakkak sırrı vardır." - UnknownNET
+
+## 51. Vukuf
+Bilme, bilgi.
+
+## 52. Tevakkuf
+Durma, duraklama, eğleşme
+
+"Geminin altı saat tevakkufundan istifade ile bu şehrin içeri taraflarını araba ile gezdi." - Ahmet Hikmet Müftüoğlu
+
 
 
 Kaynak: [1](https://https://sozluk.gov.tr/)
