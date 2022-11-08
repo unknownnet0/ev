@@ -1,84 +1,84 @@
 # TK()
 
 ## 1. Mamafih
-Bununla birlikte, anlamını taşıyan sözlüktür.
+Bununla birlikte
 
 “Mamafih, ilerledi...”
 
 ## 2. Adak
-Bir kimsenin, Tanrısal, kutsal bir güce, bir isteğini gerçekleştirdiği, kendisini bir tehlikeden koruduğu zaman yerine getirmeye söz verdiği şey.
+Adanılan şey, nezir
 
-”Adağım var, onu yerine getireceğim”
+Örnek:"Hanım, bu aldığınız şeylerin adağını unuttunuz." - Hüseyin Rahmi Gürpınar
 
 ## 3. Nitekim
-Gerçekten, hakikaten anlamını taşıyan sözlüktür.
+Gerçekten, hakikaten
 
 ”Nitekim, o iyi biriydi.”
   
 ## 4. Lügat
-Kelime, söz, sözcük, anlamını taşıyan sözlüktür.
+Kelime, söz, sözcük
 
 ## 5. Mukayese
-Karşılaştırma anlamını taşıyan sözlüktür.
+Benzeterek veya karşılaştırarak değerlendirme, karşılaştırma, kıyaslama
 
 ## 6. Mukayyet
-Bağlı bulunan, bağlanmış olan, bir koşula bağlanmış olan, anlamını taşıyan sözlüktür.
+Bağlı bulunan, bağlanmış olan, bir koşula bağlanmış olan
 
 ## 8.Mukavemet
-Dayanma, dayanıklık, karşı koyma, karşı durma, direnme, direniş, anlamını taşıyan sözlüktür.
+Dayanma, dayanıklık, karşı koyma, karşı durma, direnme, direniş
 
 ## 9. Mukaddes
-Kutsal, anlamını taşıyan sözlüktür.
+Kutsal
 
 ## 10. Mukabele
-Karşılık verme, karşılık, karşı gelme, başkaldırma, anlamını taşıyan sözlüktür.
+Karşılık verme, karşılık, karşı gelme, başkaldırma
 
 ## 11. Vakıf
-Bilgisi olan, anlamını taşıyan sözlüktür.
+Bilgisi olan
 
 ## 12. Münferit
-Kendi başına, ayrı, tek, anlamını taşıyan sözlüktür.
+Kendi başına, ayrı, tek
 
 ## 13. Mütevazı
-Alçakgönüllü, gösterişsiz, anlamını taşıyan sözlüktür.
+Alçakgönüllü, gösterişsiz
 
 ## 14. Mükellef
-Yükümlü, anlamını taşıyan sözlüktür.
+Yükümlü
 
 ## 15. Müşteki
-Şikayet eden, anlamını taşıyan sözlüktür.
+Şikayet eden
 
 ## 16. Müteşekkir
-Teşekkür, anlamını taşıyan sözlüktür.
+Teşekkür
 
 Örnek: ”Bu yardımınız için müteşekkirim.”
 
 ## 17. Mütemadiyen
-Hiç ara vermeksizin, sürekli bir biçimde, anlamını taşıyan sözlüktür.
+Hiç ara vermeksizin, sürekli bir biçimde
 
 ## 18. Müteşekkil
-Biçimlenmiş, oluşmuş, anlamını taşıyan sözlüktür.
+Biçimlenmiş, oluşmuş
 
 ## 19. Müteşebbis
-Girişken, girişimci, anlamını taşıyan sözlüktür.
+Girişken, girişimci
 
 ## 20. Müptezel
-Saygınlığını yitirmiş, bayağılaşmış, değersiz, anlamını taşıyan sözlüktür.
+Saygınlığını yitirmiş, bayağılaşmış, değersiz
 
 ## 21. Müptela
-Kötü alışkanlıkları olan, kötü bir şeye düşkün (kimse), (hastalığa) tutulmuş, yakalanmış, (birine ya da bir şeye) vurgun, âşık, (kötü bir şeye) düşkün olmak, alışmak, (hastalığa) tutulmak, yakalanmak, anlamını taşıyan sözlüktür.
+Kötü alışkanlıkları olan, kötü bir şeye düşkün (kimse), (hastalığa) tutulmuş, yakalanmış, (birine ya da bir şeye) vurgun, âşık, (kötü bir şeye) düşkün olmak, alışmak, (hastalığa) tutulmak, yakalanmak
 
 ## 22. Müphem
-Belirsiz, anlamını taşıyan sözlüktür.
+Belirsiz
 
 ## 23. Riyakar
-İkiyüzlü, anlamını taşıyan sözlüktür.
+İkiyüzlü
 
 ## 24. Regl
-Aybaşı, anlamını taşıyan sözlüktür.
+Aybaşı
 
 ## 25. Ayan
-Gözle görülen, açık, belli, anlamını taşıyan sözlüktür.
+Gözle görülen, açık, belli
 
 ## 26. Münafık
 Arabozucu, bölücü, karıştırıcı
@@ -89,16 +89,16 @@ Yıldızların durumlarından ve devinimlerinden anlam çıkararak falcılık ya
 "Eskiden müneccimlere danışılırmış"
 
 ## 28. Meymenet
-İyi özellik, iyi nitelik, uğur, anlamını taşıyan sözlüktür.
+İyi özellik, iyi nitelik, uğur
 
 ## 29. Meymenetsiz
 Kötü, uğursuz, huysuz, kılıksız, suratsız, aksi (kimse)
 
 ## 30. Metafor
-Eğretileme, anlamını taşıyan sözlüktür.
+Eğretileme
 
 ## 31. Muvaffak
-Başarılı, anlamını taşıyan sözlüktür.
+Başarılı
 
 ## 32. Muvazzaf
 Silahlı kuvvetlerde çalışan, mesleği askerlik olan (subay ve astsubay)
@@ -107,13 +107,13 @@ Silahlı kuvvetlerde çalışan, mesleği askerlik olan (subay ve astsubay)
 Razı olma, uygun bulma, olur deme
 
 ## 34. Muvazaa
-Danışık, anlamını taşıyan sözlüktür.
+Danışık
 
 ## 35. Mücerret
-Soyut, anlamını taşıyan sözlüktür.
+Soyut
 
 ## 36. Mücrim
-Suçlu, anlamını taşıyan sözlüktür.
+Suçlu
 
 ## 37. Mücahit
 Kutsal bir ülkü uğruna savaşan (kimse)
@@ -142,13 +142,18 @@ Birkaç kötüden en az kötü olanı
 Aslında, gerçeğinde, doğrusu şu ki
 
 ## 45. Lafügüzaf
-Boş konuşma, anlamını taşıyan sözlüktür.
+Boş konuşma
 
 ## 46. Velhasıl
 Sözü uzatmadan söylemek gerekirse, sözün kısası
 
 ## 47. Tedarik
 Araştırıp bulma, elde etme, sağlama
+
+## 48. İstenç
+İrade
+
+Örnek: "Böyle bir değerlendirme, yerel seçimlerin halk istencini daha iyi gösterdiği sonucunu ortaya çıkarır." - Melih Cevdet Anday
 
 
 
