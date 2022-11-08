@@ -191,5 +191,17 @@ Bir çalışmayı, bir işi, bir davranışı beğendiğinde bunu açıkça beli
 ## 54. Sadakat
 Sağlam, güçlü ve içten bağlılık.
 
+## 55. Sadakatsiz
+Sadakati, içten bağlılığı olmayan.
+
+## 56. Sadakatsizlik
+Sadakatsiz olma durumu.
+Karı ya da kocanın öbürüne ya da ikisinin birbirine ihaneti.
+
+## 56. Sadaka
+Dilenciye verilen para.
+Dinsel inanışla, yoksullara yardım olarak karşılıksız verilen şey.
+
+
 
 Kaynak: [1](https://https://sozluk.gov.tr/)
